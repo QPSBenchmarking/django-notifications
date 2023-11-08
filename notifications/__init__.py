@@ -8,4 +8,4 @@
 """
 
 # PEP 386-compliant version number: N.N[.N]+[{a|b|c|rc}N[.N]+][.postN][.devN]
-__version__ = '1.8.0'
+__version__ = '1.8.1'

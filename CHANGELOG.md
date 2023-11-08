@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.8.1
+
+  - Remove deprecated `default_app_config` (see (Django 4.1 release notes)[https://docs.djangoproject.com/en/4.2/releases/4.1/#features-removed-in-4-1])
+  - Bump `jsonfield` dependency to the Django 4.0-compatible 3.1.0 version
+
 ## 1.8.0
 
   - Added support for Django 4.1
